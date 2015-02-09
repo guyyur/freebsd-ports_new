@@ -1,0 +1,3 @@
+bin/dhcpcd-gtk
+share/applications/dhcpcd-gtk.desktop
+man/man8/dhcpcd-gtk.8.gz

@@ -1,0 +1,5 @@
+The dhcpcd-ui package provides a monitor and configuration GUI
+for dhcpcd. It is written in GTK+. It provides a notification area
+icon and a menu showing available wireless access points.
+
+WWW: http://roy.marples.name/projects/dhcpcd-ui/index

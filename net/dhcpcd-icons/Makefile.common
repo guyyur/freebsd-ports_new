@@ -1,0 +1,11 @@
+DHCPCD_UI_VERSION=	0.7.5
+MASTER_SITES=		http://roy.marples.name/downloads/dhcpcd/ \
+			http://roy.aydogan.net/dhcpcd/ \
+			http://cflags.cc/roy/dhcpcd/ \
+			LOCAL/delphij
+DISTNAME=		dhcpcd-ui-${DHCPCD_UI_VERSION}
+
+LICENSE=		BSD2CLAUSE
+
+GNU_CONFIGURE=		yes
+CONFIGURE_ARGS+=	--mandir="${MANPREFIX}/man"

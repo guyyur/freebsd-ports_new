@@ -1,0 +1,3 @@
+bin/dhcpcd-qt
+share/applications/dhcpcd-qt.desktop
+man/man8/dhcpcd-qt.8.gz
